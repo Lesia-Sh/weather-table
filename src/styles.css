@@ -1,0 +1,21 @@
+ul {
+  list-style: none;
+}
+
+.main-body {
+  border-style: solid;
+  border-color: #fff;
+  background-image: url(/img/ocean.png);
+  background-size: 600px;
+  margin-right: 350px;
+  margin-left: 350px;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+.placeholders {
+  margin: 10px;
+}
+.super-sign {
+  margin: 10px;
+  padding-top: 10px;
+}
